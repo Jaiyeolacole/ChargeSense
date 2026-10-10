@@ -1,0 +1,27 @@
+# Data
+data/raw/
+data/processed/
+*.mat
+*.h5
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Firmware build output
+build/
+firmware/build/
+
+# Mobile app
+app/node_modules/
+app/build/
+app/.dart_tool/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
