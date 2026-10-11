@@ -85,7 +85,7 @@ See [`data/README.md`](data/README.md) for download steps.
 
 ## Author
 
-[Your name], Electrical and Electronics Engineering, Federal University of Technology, Akure (FUTA), Nigeria.
+Jaiyeola Emmanuel Electrical and Electronics Engineering, Federal University of Technology, Akure (FUTA), Nigeria.
 
 ## License
 
