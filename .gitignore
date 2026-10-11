@@ -25,3 +25,5 @@ app/.dart_tool/
 .DS_Store
 .vscode/
 .idea/
+
+dataset
